@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyFunctionProj": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 3000 --useHttps --cert  D:\\Azure Function Projects\\MyFunctionProj\\server.pfx --password \"123\""
+    }
+  }
+}
